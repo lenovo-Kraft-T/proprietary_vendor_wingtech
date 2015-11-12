@@ -474,7 +474,7 @@
 <spnOverride numeric="45409" spn="SCT"/>
 <spnOverride numeric="45410" spn="CSL"/>
 <spnOverride numeric="45411" spn="CHKT"/>
-<spnOverride numeric="45412" spn="CMHK"/>
+<spnOverride numeric="45412" spn="中國移動香港"/>
 <spnOverride numeric="45415" spn="SmarTone HK"/>
 <spnOverride numeric="45416" spn="CSL"/>
 <spnOverride numeric="45418" spn="CSL"/>
@@ -496,15 +496,15 @@
 <spnOverride numeric="45702" spn="ETL MOBILE"/>
 <spnOverride numeric="45703" spn="UNITEL"/>
 <spnOverride numeric="45708" spn="TIGO LAO"/>
-<spnOverride numeric="46000" spn="CMCC"/>
-<spnOverride numeric="46001" spn="UNICOM"/>
-<spnOverride numeric="46002" spn="CHINA  MOBILE"/>
-<spnOverride numeric="46007" spn="CHINA  MOBILE"/>
-<spnOverride numeric="46008" spn="CHINA  MOBILE"/>
-<spnOverride numeric="46601" spn="Far EasTone"/>
+<spnOverride numeric="46000" spn="中国移动"/>
+<spnOverride numeric="46001" spn="中国联通"/>
+<spnOverride numeric="46002" spn="中国移动"/>
+<spnOverride numeric="46007" spn="中国移动"/>
+<spnOverride numeric="46008" spn="中国移动"/>
+<spnOverride numeric="46601" spn="遠傳電信"/>
 <spnOverride numeric="46605" spn="APTG"/>
 <spnOverride numeric="46668" spn="ACeS"/>
-<spnOverride numeric="46688" spn="KG Telecom"/>
+<spnOverride numeric="46688" spn="和信電訊"/>
 <spnOverride numeric="46689" spn="VIBO"/>
 <spnOverride numeric="46692" spn="Chunghwa Telecom"/>
 <spnOverride numeric="46693" spn="MobiTai"/>
@@ -1216,8 +1216,8 @@
 <spnOverride numeric="45401" spn="New World"/>
 <spnOverride numeric="45414" spn="3-DB"/>
 <spnOverride numeric="45417" spn="SmarTone HK"/>
-<spnOverride numeric="46003" spn="CHINA TELECOM"/>
-<spnOverride numeric="46011" spn="CHINA TELECOM"/>
+<spnOverride numeric="46003" spn="中国电信"/>
+<spnOverride numeric="46011" spn="中国电信"/>
 <spnOverride numeric="46012" spn="CTNET"/>
 <spnOverride numeric="46013" spn="CTNET"/>
 <spnOverride numeric="50507" spn="vodafone AU"/>
